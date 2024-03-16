@@ -25,24 +25,24 @@ The project follows these main steps:
    ```bash
    git clone https://github.com/yourusername/stock_prediction_lstm.git
 
-# Navigate to the project directory
-cd stock_prediction_lstm
+2. Navigate to the project directory
+    cd stock_prediction_lstm
 
-# Create and activate a virtual environment
-# On Windows:
-python -m venv venv
-.\venv\Scripts\activate
+3 Create and activate a virtual environment
 
-# On macOS/Linux:
-python3 -m venv venv
-source venv/bin/activate
+4 On Windows:
+    python -m venv venv
+    .\venv\Scripts\activate
 
-# Install dependencies
-pip install -r requirements.txt
+5 On macOS/Linux:
+    python3 -m venv venv
+    source venv/bin/activate
 
-# Usage
-# Run the Python script stock_prediction_lstm.py
-python stock_prediction_lstm.py
+6 Install dependencies
+    pip install -r requirements.txt
+
+7 Run the Python script stock_prediction_lstm.py
+    python stock_prediction_lstm.py
 
 
 
